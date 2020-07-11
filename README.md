@@ -1,5 +1,5 @@
-## Luis Gustavo :grinning:
-#### Hello! Welcome to my profile :school_satchel:
+## Luis Gustavo :ocean:
+#### Hello! Welcome to my profile :grinning:
 My name is Luis and I am a Full Stack Developer.
 
 * :computer: Love writing JavaScript codes
