@@ -1,4 +1,4 @@
-## Luis Gustavo :ocean:
+## :ocean: Luis Gustavo
 #### Hello! Welcome to my profile :grinning:
 My name is Luis and I am a Full Stack Developer.
 
