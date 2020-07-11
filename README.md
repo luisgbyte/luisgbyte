@@ -1,4 +1,4 @@
-## Luis Gustavo :sunrise_over_mountains:
+## Luis Gustavo :school_satchel:
 #### Hello! Welcome to my profile :grinning:
 My name is Luis and I am a Full Stack Developer.
 
