@@ -1,4 +1,4 @@
-# Luis Gustavo :earth_americas:
+## Luis Gustavo :sunrise_over_mountains:
 #### Hello! Welcome to my profile :grinning:
 My name is Luis and I am a Full Stack Developer.
 
