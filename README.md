@@ -1,5 +1,5 @@
-# **Luis Gustavo** :space_invader:
-**Hello! Welcome to my profile**
+# Luis Gustavo :fire:
+**Hello! Welcome to my profile** :grinning:
 ### My name is Luis and I am a full stack developer.
 
 * :computer: Love writing JavaScript codes
