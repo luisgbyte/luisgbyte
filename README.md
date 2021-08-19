@@ -1,4 +1,4 @@
-### Olá, sou o Luis! :sunglasses:
+### Olá, sou o Luis! :man_technologist:
 
 <div>
   <a href="https://github.com/luisgbyte">
