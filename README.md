@@ -1,15 +1,11 @@
 ### Olá, sou o Luis! :man_technologist:
 
 <div>
-  <a href="https://github.com/luisgbyte"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgbyte&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgbyte&layout=compact&langs_count=6&theme=react&cache_seconds=1800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luisgbyte&theme=holi-theme&hide_border=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisgbyte&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgbyte&layout=compact&langs_count=6&theme=react&cache_seconds=1800"/> -->
 </div>
- 
  <br>
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luisgbyte&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
