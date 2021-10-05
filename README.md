@@ -15,5 +15,5 @@
 </div><br>
 
 <div>
-  <p>Desenvolvedor fullstack nas tecnologias ReactJs e NodeJs. Atualmente estudando Typescript, NextJs e GraphQL.</p>
+  <p>Desenvolvedor júnior frontend em ReactJs.</p>
 </div>
