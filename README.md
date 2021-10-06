@@ -1,6 +1,6 @@
 ### Olá, sou o Luis! :man_technologist:
 
-<div>
+<div align="center">
   <img src="https://github-streak-stats-luis.herokuapp.com?user=luisgbyte&theme=holi-theme&hide_border=true&date_format=%5BY%20%5DM%20j&fire=E60D6BC2"/>
 </div>
 
