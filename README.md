@@ -1,7 +1,7 @@
 ### Olá, sou o Luis! :man_technologist:
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=luisgbyte&theme=holi-theme&hide_border=true"/>
+  <img src="https://github-streak-stats-luis.herokuapp.com?user=luisgbyte&theme=holi-theme&hide_border=true&date_format=%5BY%20%5DM%20j&fire=E60D6BC2"/>
 </div>
 
 <div style="display: inline_block"><br>
