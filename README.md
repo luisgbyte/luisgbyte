@@ -17,5 +17,9 @@
   <img align="center" alt="figma" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="wordpress" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg">
   <img align="center" alt="git" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="php" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="bash" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" alt="digital-ocean" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg">
 </div>
 <br/>
