@@ -11,6 +11,3 @@
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br/>
-<div>
-  <p>Desenvolvedor júnior frontend em ReactJs.</p>
-</div>
