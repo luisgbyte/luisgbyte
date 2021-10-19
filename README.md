@@ -4,7 +4,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=luisgbyte&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=9C040F"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="javascript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="typescript" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nodejs" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
