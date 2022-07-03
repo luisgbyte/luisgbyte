@@ -22,7 +22,3 @@
   <img align="center" alt="digital-ocean" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg">
 </div>
 <br/>
-
-<b>
-  <a href="https://curriculo-luis.notion.site/curriculo-luis/Curr-culo-3f9649fc354b4bee976e919301664094" target="_blank">Meu Currículo</a>
-</b>
